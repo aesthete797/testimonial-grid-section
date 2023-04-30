@@ -51,7 +51,7 @@ body {
 
 /*the selector below applies to all h1 elements, each box has only one h1 element each*/
 #container h1 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
   color: white;
 }
